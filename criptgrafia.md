@@ -1,4 +1,10 @@
-# Critpografía
+---
+title: Criptografía
+layout: default
+navbar_order: 3
+---
+
+# Criptografía
 
 Una clave es una cadena de caracteres que se utiliza de un algoritmo de encriptación para alterar los datos de forma que parezcan aleatorios, de modo que solo el que tenga la "llave" correcta puede desencriptar la cadena.
 
