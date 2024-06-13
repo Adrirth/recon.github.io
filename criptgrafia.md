@@ -1,6 +1,7 @@
 ---
 title: Criptografía
 layout: default
+nav_order: 2
 ---
 
 # Criptografía

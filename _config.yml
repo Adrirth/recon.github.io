@@ -31,4 +31,7 @@ back_to_top_text: "Volver arriba"
 # Favicon
 favicon_ico: "/assets/images/favicon.ico"
 
+# logo
+logo: "/assets/images/logo.ico"
+
 
