@@ -12,6 +12,17 @@ color_scheme: dark
 
 # Búsqueda
 search_enabled: true
+  # Maximum amount of previews per search result
+  # Default: 3
+  search.previews: 3
+
+  # Maximum amount of words to display before a matched word in the preview
+  # Default: 5
+  search.preview_words_before: 5
+
+  # Maximum amount of words to display after a matched word in the preview
+  # Default: 10
+  search.preview_words_after: 10  
 
 # Volver arriba
 back_to_top: true
@@ -28,52 +39,6 @@ logo: "/assets/images/logo.png"
 footer_content: "Copyright &copy; 2024. Adrirth"
 
 
-# Maximum amount of previews per search result
-# Default: 3
-search.previews: 3
-
-# Maximum amount of words to display before a matched word in the preview
-# Default: 5
-search.preview_words_before: 5
-
-# Maximum amount of words to display after a matched word in the preview
-# Default: 10
-search.preview_words_after: 10
-
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p"
 
-exclude:
- # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
-   - .sass-cache/
-   - .jekyll-cache/
-   - gemfiles/
-   - Gemfile
-   - Gemfile.lock
-   - node_modules/
-   - vendor/bundle/
-   - vendor/cache/
-   - vendor/gems/
-   - vendor/ruby/
- # specific to the theme website:
-   - bin/
-   - lib/
-   - "*.gemspec"
-   - "*.gem"
-   - LICENSE.txt
-   - package.json
-   - package-lock.json
-   - Rakefile
-   - README.md
-   - CODE_OF_CONDUCT.md
-   - docker-compose.yml
-   - Dockerfile
- # theme test code
-   - fixtures/
-
-# Plugins
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-include-cache
