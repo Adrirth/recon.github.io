@@ -25,7 +25,7 @@ logo: "/assets/images/logo.png"
 
 
 # Footer
-footer_content: "Copyright &copy; 2024. Adrirth
+footer_content: "Copyright &copy; 2024. Adrirth"
 
 
 # Maximum amount of previews per search result
@@ -73,3 +73,7 @@ exclude:
 
 # Plugins
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
