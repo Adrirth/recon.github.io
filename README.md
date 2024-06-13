@@ -1,1 +1,1 @@
-# Pagina personal creada con el tema just-the-docs
+# Personal page created with *just-the-docs* them
