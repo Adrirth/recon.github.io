@@ -4,3 +4,27 @@ theme: just-the-docs
 
 url: https://adrirth.github.io/
 
+# Barra de navegación
+nav_enabled: true
+
+# Tema
+color_scheme: dark
+
+# Búsqueda
+search_enabled: true
+
+
+# Favicon
+favicon_ico: "/assets/images/favicon.ico"
+
+# Maximum amount of previews per search result
+# Default: 3
+search.previews: 3
+
+# Maximum amount of words to display before a matched word in the preview
+# Default: 5
+search.preview_words_before: 5
+
+# Maximum amount of words to display after a matched word in the preview
+# Default: 10
+search.preview_words_after: 10

@@ -1,3 +1,7 @@
+---
+title: Bibliografía
+layout: default
+---
 
 **Ruta Hacking Ético 2024**
 https://xmind.ai/share/Lb1OpvN0?xid=V5SYWweD
