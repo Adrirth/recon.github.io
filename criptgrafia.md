@@ -1,7 +1,7 @@
 ---
 title: Criptografía
 layout: default
-navbar_order: 3
+nav_order: 3
 ---
 
 # Criptografía
@@ -48,13 +48,13 @@ Algunos ejemplos de esto son RSA, PGP y ECC, y algunas aplicaciones como:
 | `Elliptic Curve Diffie-Hellman`              | `ECDH`       | Provides enhanced security compared to traditional Diffie-Hellman          |
 | `Elliptic Curve Digital Signature Algorithm` | `ECDSA`      | Provides enhanced security and efficiency for digital signature generation |
 
-#### Bibliografía
+### Bibliografía
 
-**Página HTB**
+[**Página HTB**](https://app.hackthebox.com/)
 
-[Intercambio de claves](https://academy.hackthebox.com/module/34/section/1875)
+[**Intercambio de claves**](https://academy.hackthebox.com/module/34/section/1875)
 
-[Criptografía](https://academy.hackthebox.com/module/34/section/2026)
+[**Criptografía**](https://academy.hackthebox.com/module/34/section/2026)
 
 [**Intercambio de claves Diffie Hellman**](https://www.computerweekly.com/es/definicion/Intercambio-de-claves-Diffie-Hellman-intercambio-de-claves-exponencial)
 
