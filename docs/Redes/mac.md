@@ -3,7 +3,7 @@ layout: default
 title: Dirección MAC
 ---
 
-#mac 
+# MAC 
 
 **Media Access Control**, representada en formato hexadecimal, dirección física de nuestras interfaces de red. Estándares:
 
